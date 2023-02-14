@@ -1,36 +1,22 @@
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-::1 ip6-localhost
-::1 ip6-loopback
-fe80::1%lo0 localhost
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
-
-
-#Google
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 adservice.google.com
-0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 googleadservices.com
-0.0.0.0 ads.youtube.com
-
-#Samsung
-0.0.0.0 samsungads.com
-0.0.0.0 smetrics.samsung.com
-0.0.0.0 samsung-com.112.2o7.net
-0.0.0.0 business.samsungusa.com
-0.0.0.0 analytics-api.samsunghealthcn.com
-0.0.0.0 config.samsungads.com
-
-#Facebook
-0.0.0.0 pixel.facebook.com
-0.0.0.0 analytics.facebook.com
-0.0.0.0 ads.facebook.com
-0.0.0.0 an.facebook.com
+# — Spotify Ad Block
+127.0.0.1 media-match.com
+127.0.0.1 adclick.g.doublecklick.net
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 http://www.googleadservices.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 desktop.spotify.com
+127.0.0.1 pubads.g.doubleclick.net
+127.0.0.1 audio2.spotify.com
+# —
+127.0.0.1 crashdump.spotify.com
+127.0.0.1 adeventtracker.spotify.com
+127.0.0.1 log.spotify.com
+127.0.0.1 analytics.spotify.com
+127.0.0.1 ads-fa.spotify.com
+127.0.0.1 audio-ec.spotify.com
+127.0.0.1 heads-ec.spotify.com
+127.0.0.1 prod.spotify.map.fastlylb.net
+127.0.0.1 sto3.spotify.com
+127.0.0.1 spclient.wg.spotify.com
+127.0.0.1 upgrade.spotify.com
+# — Spotify Ads Block End
